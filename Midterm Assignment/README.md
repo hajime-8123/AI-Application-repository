@@ -77,9 +77,8 @@ Predictive maintenance for conveyor belts is a crucial application of machine le
 
 ## Author
 
-[Your Name]
+Atkham Eshonkulov
 
 ---
 
-*Note: Replace [Your Name] with your name or the name of the project author.*
 
